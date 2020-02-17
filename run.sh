@@ -1,5 +1,4 @@
 #!/bin/bash
-volumne
 REPO=registry.logicspark.com/nginx
 VERSION=1.17.6-letsencrypt
 CONTAINER_NAME=load-balance
